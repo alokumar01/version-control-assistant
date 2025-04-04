@@ -28,6 +28,18 @@ Version Control Assistant is a full-stack web application that helps developers 
 
 ---
 
+## 📸 Preview
+
+![Dashboard Preview](https://github.com/alokumar01/version-control-assistant/raw/main/dashboard_vcs.png)
+
+---
+
+## 🚀 Roadmap
+
+We’re actively working on this project and plan to roll out updates with exciting new features in the future. Stay tuned for enhancements and improvements!
+
+---
+
 ## 🧑‍💻 Author
 
 - **GitHub**: [@alokumar01](https://github.com/alokumar01)  
